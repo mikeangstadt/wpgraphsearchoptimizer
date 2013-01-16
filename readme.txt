@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: mjangstadt
+Contributors: mike_angstadt
 Donate link: http://www.atomni.com/
 Tags: facebook, social media marketing, seo, graph search
 Requires at least: 3.0.1
